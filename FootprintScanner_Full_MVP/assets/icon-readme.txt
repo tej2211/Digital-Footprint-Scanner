@@ -1,0 +1,1 @@
+Replace with properly designed app icon PNGs for Play Store (512x512, etc).
